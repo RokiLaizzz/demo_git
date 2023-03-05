@@ -9,4 +9,5 @@ remote1
 remote2
 
 add rebase1
+add rebase2
 
