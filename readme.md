@@ -10,4 +10,5 @@ remote1
 add rebase1
 add rebase2
 add rebase3
+add rebase4
 
